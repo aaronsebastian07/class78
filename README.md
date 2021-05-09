@@ -1,2 +1,2 @@
-# class78
-This is my class 78 repository of Book Santa. 
+# book-santa-stage-2
+Stage - 2
